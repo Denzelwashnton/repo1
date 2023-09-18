@@ -1,0 +1,4 @@
+img1.png
+games/
+*.png
+!img3.png
